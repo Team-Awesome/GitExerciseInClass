@@ -1,6 +1,6 @@
 VOTE: Skilja audi eftir?
 (vinsamlegast setji "I" vid svarid ykkar)
-1. ja: I
+1. ja: II
 2. nei: I 
 
 
