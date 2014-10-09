@@ -1,7 +1,7 @@
 VOTE: Skilja audi eftir?
 (vinsamlegast setji "I" vid svarid ykkar)
 1. ja: I
-2. nei: 
+2. nei: I 
 
 
 gunnar <3 daniel
